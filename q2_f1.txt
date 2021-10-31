@@ -1,0 +1,108 @@
+________________________
+gen: 0 , best_of_run_f: 0.2 , best_of_run_f: 0
+new_tree
+add
+   add
+      add
+         2
+         2
+      mul
+         xx
+         xx
+   sub
+      sub
+         1
+         7
+      sub
+         7
+         7
+________________________
+gen: 1 , best_of_run_f: 0.2 , best_of_run_f: 0.2
+________________________
+gen: 2 , best_of_run_f: 0.2 , best_of_run_f: 0.2
+________________________
+gen: 3 , best_of_run_f: 0.333 , best_of_run_f: 0.2
+new_tree
+add
+   add
+      sub
+         sub
+            mul
+               xx
+               2
+            mul
+               2
+               2
+         mul
+            sub
+               xx
+               7
+            mul
+               2
+               1
+      mul
+         xx
+         xx
+   sub
+      sub
+         sub
+            7
+            7
+         add
+            7
+            2
+      sub
+         7
+         7
+________________________
+gen: 4 , best_of_run_f: 0.333 , best_of_run_f: 0.3333333333333333
+________________________
+gen: 5 , best_of_run_f: 0.333 , best_of_run_f: 0.3333333333333333
+________________________
+gen: 6 , best_of_run_f: 1.0 , best_of_run_f: 0.3333333333333333
+new_tree
+add
+   add
+      2
+      mul
+         xx
+         xx
+   sub
+      sub
+         1
+         mul
+            1
+            1
+      2
+________________________
+gen: 7 , best_of_run_f: 1.0 , best_of_run_f: 0.9999999999999998
+________________________
+gen: 8 , best_of_run_f: 0.333 , best_of_run_f: 0.9999999999999998
+________________________
+gen: 9 , best_of_run_f: 0.225 , best_of_run_f: 0.9999999999999998
+________________________
+gen: 10 , best_of_run_f: 1.0 , best_of_run_f: 0.9999999999999998
+new_tree
+add
+   mul
+      1
+      sub
+         7
+         7
+   mul
+      xx
+      xx
+
+
+_________________________________________________
+END OF RUN
+best_of_run attained at gen 10 and has f=1.0
+add
+   mul
+      1
+      sub
+         7
+         7
+   mul
+      xx
+      xx

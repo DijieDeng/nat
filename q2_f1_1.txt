@@ -1,0 +1,98 @@
+________________________
+gen: 0 , best_of_run_f: 0.097 , best_of_run_f: 0
+new_tree
+add
+   mul
+      sub
+         1
+         2
+      sub
+         xx
+         1
+   add
+      add
+         1
+         10
+      sub
+         xx
+         3.141592653589793
+________________________
+gen: 1 , best_of_run_f: 0.111 , best_of_run_f: 0.09681029736087822
+new_tree
+sub
+   mul
+      xx
+      xx
+   add
+      2
+      2
+________________________
+gen: 2 , best_of_run_f: 1.0 , best_of_run_f: 0.1111111111111111
+new_tree
+sub
+   add
+      sub
+         10
+         xx
+      mul
+         xx
+         xx
+   mul
+      sub
+         10
+         xx
+      sub
+         2
+         1
+________________________
+gen: 3 , best_of_run_f: 0.2 , best_of_run_f: 0.9999999999999991
+________________________
+gen: 4 , best_of_run_f: 0.092 , best_of_run_f: 0.9999999999999991
+________________________
+gen: 5 , best_of_run_f: 0.107 , best_of_run_f: 0.9999999999999991
+________________________
+gen: 6 , best_of_run_f: 0.097 , best_of_run_f: 0.9999999999999991
+________________________
+gen: 7 , best_of_run_f: 0.097 , best_of_run_f: 0.9999999999999991
+________________________
+gen: 8 , best_of_run_f: 0.133 , best_of_run_f: 0.9999999999999991
+________________________
+gen: 9 , best_of_run_f: 0.208 , best_of_run_f: 0.9999999999999991
+________________________
+gen: 10 , best_of_run_f: 0.095 , best_of_run_f: 0.9999999999999991
+________________________
+gen: 11 , best_of_run_f: 0.097 , best_of_run_f: 0.9999999999999991
+________________________
+gen: 12 , best_of_run_f: 0.097 , best_of_run_f: 0.9999999999999991
+________________________
+gen: 13 , best_of_run_f: 0.097 , best_of_run_f: 0.9999999999999991
+________________________
+gen: 14 , best_of_run_f: 0.095 , best_of_run_f: 0.9999999999999991
+________________________
+gen: 15 , best_of_run_f: 0.095 , best_of_run_f: 0.9999999999999991
+________________________
+gen: 16 , best_of_run_f: 0.096 , best_of_run_f: 0.9999999999999991
+________________________
+gen: 17 , best_of_run_f: 0.119 , best_of_run_f: 0.9999999999999991
+________________________
+gen: 18 , best_of_run_f: 0.097 , best_of_run_f: 0.9999999999999991
+________________________
+gen: 19 , best_of_run_f: 0.097 , best_of_run_f: 0.9999999999999991
+________________________
+gen: 20 , best_of_run_f: 0.133 , best_of_run_f: 0.9999999999999991
+________________________
+gen: 21 , best_of_run_f: 0.133 , best_of_run_f: 0.9999999999999991
+________________________
+gen: 22 , best_of_run_f: 1.0 , best_of_run_f: 0.9999999999999991
+new_tree
+mul
+   xx
+   xx
+
+
+_________________________________________________
+END OF RUN
+best_of_run attained at gen 22 and has f=1.0
+mul
+   xx
+   xx

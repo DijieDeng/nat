@@ -1,0 +1,2910 @@
+________________________
+gen: 0 , best_of_run_f: 0.072 , best_of_run_f: 0
+new_tree
+sub
+   sub
+      mul
+         cos
+            2
+            5
+         add
+            mul
+               add
+                  2
+                  sub
+                     add
+                        3.141592653589793
+                        mul
+                           2
+                           10
+                     mul
+                        1
+                        mul
+                           xx
+                           2
+               1
+            2
+      add
+         5
+         sub
+            1
+            5
+   cos
+      cos
+         5
+         cos
+            mul
+               add
+                  add
+                     10
+                     10
+                  mul
+                     mul
+                        add
+                           5
+                           5
+                        xx
+                     mul
+                        cos
+                           3.141592653589793
+                           10
+                        cos
+                           10
+                           10
+               mul
+                  add
+                     xx
+                     add
+                        3.141592653589793
+                        add
+                           2
+                           3.141592653589793
+                  1
+            sub
+               5
+               add
+                  sub
+                     mul
+                        1
+                        3.141592653589793
+                     5
+                  3.141592653589793
+      add
+         2
+         cos
+            10
+            sub
+               1
+               xx
+________________________
+gen: 1 , best_of_run_f: 0.072 , best_of_run_f: 0.07199789339881761
+new_tree
+add
+   sub
+      add
+         5
+         10
+      cos
+         3.141592653589793
+         2
+   mul
+      mul
+         1
+         10
+      cos
+         10
+         xx
+________________________
+gen: 2 , best_of_run_f: 0.069 , best_of_run_f: 0.07246753861853676
+________________________
+gen: 3 , best_of_run_f: 0.075 , best_of_run_f: 0.07246753861853676
+new_tree
+mul
+   mul
+      add
+         10
+         2
+      mul
+         2
+         3.141592653589793
+   cos
+      mul
+         mul
+            1
+            3.141592653589793
+         sub
+            1
+            10
+      add
+         sub
+            2
+            5
+         cos
+            10
+            3.141592653589793
+________________________
+gen: 4 , best_of_run_f: 0.072 , best_of_run_f: 0.07511290952992271
+________________________
+gen: 5 , best_of_run_f: 0.072 , best_of_run_f: 0.07511290952992271
+________________________
+gen: 6 , best_of_run_f: 0.079 , best_of_run_f: 0.07511290952992271
+new_tree
+mul
+   mul
+      add
+         cos
+            10
+            2
+         add
+            2
+            3.141592653589793
+      mul
+         2
+         3.141592653589793
+   cos
+      mul
+         mul
+            1
+            3.141592653589793
+         sub
+            1
+            10
+      add
+         sub
+            2
+            5
+         cos
+            sub
+               5
+               cos
+                  3.141592653589793
+                  2
+            3.141592653589793
+________________________
+gen: 7 , best_of_run_f: 0.075 , best_of_run_f: 0.07867118577011122
+________________________
+gen: 8 , best_of_run_f: 0.077 , best_of_run_f: 0.07867118577011122
+________________________
+gen: 9 , best_of_run_f: 0.079 , best_of_run_f: 0.07867118577011122
+new_tree
+sub
+   add
+      cos
+         cos
+            sub
+               10
+               5
+            mul
+               2
+               5
+         cos
+            add
+               10
+               5
+            add
+               xx
+               xx
+      cos
+         10
+         5
+   mul
+      sub
+         10
+         5
+      sub
+         mul
+            2
+            3.141592653589793
+         10
+________________________
+gen: 10 , best_of_run_f: 0.078 , best_of_run_f: 0.07916730316577747
+________________________
+gen: 11 , best_of_run_f: 0.079 , best_of_run_f: 0.07916730316577747
+________________________
+gen: 12 , best_of_run_f: 0.079 , best_of_run_f: 0.07916730316577747
+________________________
+gen: 13 , best_of_run_f: 0.079 , best_of_run_f: 0.07916730316577747
+________________________
+gen: 14 , best_of_run_f: 0.079 , best_of_run_f: 0.07916730316577747
+new_tree
+sub
+   add
+      cos
+         cos
+            cos
+               add
+                  sub
+                     cos
+                        1
+                        xx
+                     sub
+                        xx
+                        5
+                  cos
+                     mul
+                        xx
+                        5
+                     cos
+                        xx
+                        3.141592653589793
+               cos
+                  mul
+                     10
+                     3.141592653589793
+                  mul
+                     10
+                     1
+            sub
+               add
+                  add
+                     add
+                        5
+                        2
+                     mul
+                        1
+                        sub
+                           mul
+                              2
+                              3.141592653589793
+                           10
+                  mul
+                     add
+                        sub
+                           10
+                           xx
+                        cos
+                           5
+                           mul
+                              cos
+                                 3.141592653589793
+                                 10
+                              cos
+                                 1
+                                 3.141592653589793
+                     cos
+                        mul
+                           3.141592653589793
+                           3.141592653589793
+                        sub
+                           xx
+                           1
+               sub
+                  mul
+                     5
+                     cos
+                        cos
+                           cos
+                              xx
+                              sub
+                                 3.141592653589793
+                                 3.141592653589793
+                           add
+                              mul
+                                 3.141592653589793
+                                 cos
+                                    mul
+                                       5
+                                       cos
+                                          mul
+                                             10
+                                             3.141592653589793
+                                          cos
+                                             1
+                                             3.141592653589793
+                                    1
+                              cos
+                                 sub
+                                    2
+                                    3.141592653589793
+                                 2
+                        cos
+                           3.141592653589793
+                           add
+                              xx
+                              3.141592653589793
+                  add
+                     5
+                     2
+         cos
+            add
+               10
+               5
+            add
+               xx
+               cos
+                  xx
+                  xx
+      cos
+         10
+         5
+   mul
+      sub
+         10
+         5
+      sub
+         mul
+            2
+            3.141592653589793
+         10
+________________________
+gen: 15 , best_of_run_f: 0.08 , best_of_run_f: 0.07918961009426378
+new_tree
+sub
+   add
+      cos
+         mul
+            cos
+               add
+                  sub
+                     sub
+                        mul
+                           add
+                              2
+                              3.141592653589793
+                           mul
+                              10
+                              3.141592653589793
+                        mul
+                           mul
+                              2
+                              10
+                           add
+                              xx
+                              3.141592653589793
+                     2
+                  cos
+                     xx
+                     5
+               add
+                  cos
+                     1
+                     xx
+                  sub
+                     2
+                     5
+            sub
+               sub
+                  5
+                  10
+               mul
+                  3.141592653589793
+                  2
+         cos
+            add
+               10
+               5
+            add
+               xx
+               cos
+                  xx
+                  xx
+      cos
+         10
+         5
+   mul
+      sub
+         10
+         5
+      sub
+         mul
+            2
+            3.141592653589793
+         10
+________________________
+gen: 16 , best_of_run_f: 0.079 , best_of_run_f: 0.07962177956873866
+________________________
+gen: 17 , best_of_run_f: 0.081 , best_of_run_f: 0.07962177956873866
+new_tree
+sub
+   add
+      mul
+         cos
+            sub
+               10
+               xx
+            mul
+               5
+               xx
+         mul
+            mul
+               1
+               xx
+            cos
+               xx
+               5
+      cos
+         10
+         5
+   mul
+      sub
+         10
+         5
+      sub
+         mul
+            2
+            3.141592653589793
+         10
+________________________
+gen: 18 , best_of_run_f: 0.079 , best_of_run_f: 0.08088154027842272
+________________________
+gen: 19 , best_of_run_f: 0.08 , best_of_run_f: 0.08088154027842272
+________________________
+gen: 20 , best_of_run_f: 0.093 , best_of_run_f: 0.08088154027842272
+new_tree
+sub
+   add
+      mul
+         cos
+            5
+            10
+         sub
+            3.141592653589793
+            3.141592653589793
+      mul
+         mul
+            xx
+            2
+         cos
+            xx
+            1
+   mul
+      sub
+         10
+         5
+      sub
+         mul
+            2
+            3.141592653589793
+         10
+________________________
+gen: 21 , best_of_run_f: 0.093 , best_of_run_f: 0.09288548944752602
+________________________
+gen: 22 , best_of_run_f: 0.081 , best_of_run_f: 0.09288548944752602
+________________________
+gen: 23 , best_of_run_f: 0.095 , best_of_run_f: 0.09288548944752602
+new_tree
+sub
+   mul
+      mul
+         mul
+            xx
+            2
+         cos
+            2
+            xx
+      cos
+         cos
+            1
+            2
+         mul
+            1
+            1
+   mul
+      5
+      sub
+         mul
+            2
+            3.141592653589793
+         10
+________________________
+gen: 24 , best_of_run_f: 0.081 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 25 , best_of_run_f: 0.081 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 26 , best_of_run_f: 0.082 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 27 , best_of_run_f: 0.09 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 28 , best_of_run_f: 0.087 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 29 , best_of_run_f: 0.087 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 30 , best_of_run_f: 0.087 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 31 , best_of_run_f: 0.087 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 32 , best_of_run_f: 0.088 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 33 , best_of_run_f: 0.087 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 34 , best_of_run_f: 0.088 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 35 , best_of_run_f: 0.088 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 36 , best_of_run_f: 0.088 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 37 , best_of_run_f: 0.088 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 38 , best_of_run_f: 0.088 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 39 , best_of_run_f: 0.088 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 40 , best_of_run_f: 0.089 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 41 , best_of_run_f: 0.089 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 42 , best_of_run_f: 0.09 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 43 , best_of_run_f: 0.089 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 44 , best_of_run_f: 0.09 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 45 , best_of_run_f: 0.09 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 46 , best_of_run_f: 0.091 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 47 , best_of_run_f: 0.089 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 48 , best_of_run_f: 0.09 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 49 , best_of_run_f: 0.09 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 50 , best_of_run_f: 0.09 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 51 , best_of_run_f: 0.09 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 52 , best_of_run_f: 0.091 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 53 , best_of_run_f: 0.091 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 54 , best_of_run_f: 0.091 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 55 , best_of_run_f: 0.09 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 56 , best_of_run_f: 0.09 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 57 , best_of_run_f: 0.09 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 58 , best_of_run_f: 0.09 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 59 , best_of_run_f: 0.091 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 60 , best_of_run_f: 0.09 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 61 , best_of_run_f: 0.09 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 62 , best_of_run_f: 0.09 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 63 , best_of_run_f: 0.09 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 64 , best_of_run_f: 0.09 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 65 , best_of_run_f: 0.09 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 66 , best_of_run_f: 0.091 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 67 , best_of_run_f: 0.092 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 68 , best_of_run_f: 0.091 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 69 , best_of_run_f: 0.091 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 70 , best_of_run_f: 0.09 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 71 , best_of_run_f: 0.091 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 72 , best_of_run_f: 0.094 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 73 , best_of_run_f: 0.091 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 74 , best_of_run_f: 0.091 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 75 , best_of_run_f: 0.091 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 76 , best_of_run_f: 0.091 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 77 , best_of_run_f: 0.091 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 78 , best_of_run_f: 0.09 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 79 , best_of_run_f: 0.09 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 80 , best_of_run_f: 0.089 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 81 , best_of_run_f: 0.09 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 82 , best_of_run_f: 0.09 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 83 , best_of_run_f: 0.091 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 84 , best_of_run_f: 0.092 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 85 , best_of_run_f: 0.091 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 86 , best_of_run_f: 0.091 , best_of_run_f: 0.09464175586191279
+________________________
+gen: 87 , best_of_run_f: 0.095 , best_of_run_f: 0.09464175586191279
+new_tree
+sub
+   add
+      add
+         cos
+            add
+               mul
+                  cos
+                     sub
+                        add
+                           sub
+                              cos
+                                 1
+                                 xx
+                              sub
+                                 10
+                                 2
+                           sub
+                              sub
+                                 xx
+                                 3.141592653589793
+                              add
+                                 5
+                                 10
+                        5
+                     mul
+                        2
+                        2
+                  sub
+                     sub
+                        10
+                        5
+                     mul
+                        2
+                        3.141592653589793
+               sub
+                  mul
+                     2
+                     3.141592653589793
+                  2
+            add
+               cos
+                  5
+                  3.141592653589793
+               sub
+                  2
+                  1
+         mul
+            xx
+            cos
+               xx
+               2
+      mul
+         xx
+         cos
+            xx
+            1
+   mul
+      sub
+         10
+         5
+      sub
+         mul
+            2
+            3.141592653589793
+         10
+________________________
+gen: 88 , best_of_run_f: 0.094 , best_of_run_f: 0.09472382228825213
+________________________
+gen: 89 , best_of_run_f: 0.097 , best_of_run_f: 0.09472382228825213
+new_tree
+sub
+   add
+      add
+         cos
+            add
+               add
+                  5
+                  10
+               mul
+                  2
+                  2
+            add
+               cos
+                  5
+                  3.141592653589793
+               mul
+                  5
+                  2
+         mul
+            xx
+            cos
+               xx
+               2
+      mul
+         xx
+         cos
+            xx
+            1
+   mul
+      sub
+         10
+         5
+      sub
+         mul
+            2
+            3.141592653589793
+         10
+________________________
+gen: 90 , best_of_run_f: 0.097 , best_of_run_f: 0.09674137740577089
+________________________
+gen: 91 , best_of_run_f: 0.097 , best_of_run_f: 0.09674137740577089
+________________________
+gen: 92 , best_of_run_f: 0.097 , best_of_run_f: 0.09674137740577089
+________________________
+gen: 93 , best_of_run_f: 0.097 , best_of_run_f: 0.09674137740577089
+________________________
+gen: 94 , best_of_run_f: 0.097 , best_of_run_f: 0.09674137740577089
+________________________
+gen: 95 , best_of_run_f: 0.098 , best_of_run_f: 0.09674137740577089
+new_tree
+sub
+   add
+      add
+         cos
+            mul
+               cos
+                  add
+                     mul
+                        add
+                           mul
+                              mul
+                                 5
+                                 3.141592653589793
+                              mul
+                                 xx
+                                 3.141592653589793
+                           add
+                              mul
+                                 2
+                                 3.141592653589793
+                              mul
+                                 1
+                                 2
+                        3.141592653589793
+                     add
+                        xx
+                        1
+                  mul
+                     add
+                        add
+                           mul
+                              cos
+                                 1
+                                 xx
+                              mul
+                                 2
+                                 1
+                           add
+                              add
+                                 10
+                                 xx
+                              add
+                                 1
+                                 xx
+                        3.141592653589793
+                     sub
+                        1
+                        2
+               mul
+                  add
+                     5
+                     3.141592653589793
+                  sub
+                     3.141592653589793
+                     3.141592653589793
+            10
+         mul
+            xx
+            cos
+               xx
+               2
+      add
+         add
+            cos
+               mul
+                  mul
+                     cos
+                        1
+                        2
+                     mul
+                        10
+                        10
+                  cos
+                     mul
+                        3.141592653589793
+                        2
+                     sub
+                        1
+                        10
+               10
+            mul
+               xx
+               cos
+                  xx
+                  2
+         mul
+            xx
+            cos
+               xx
+               1
+   mul
+      sub
+         10
+         5
+      sub
+         mul
+            2
+            3.141592653589793
+         10
+________________________
+gen: 96 , best_of_run_f: 0.097 , best_of_run_f: 0.09792435365904584
+________________________
+gen: 97 , best_of_run_f: 0.098 , best_of_run_f: 0.09792435365904584
+________________________
+gen: 98 , best_of_run_f: 0.098 , best_of_run_f: 0.09792435365904584
+________________________
+gen: 99 , best_of_run_f: 0.097 , best_of_run_f: 0.09792435365904584
+________________________
+gen: 100 , best_of_run_f: 0.097 , best_of_run_f: 0.09792435365904584
+________________________
+gen: 101 , best_of_run_f: 0.098 , best_of_run_f: 0.09792435365904584
+new_tree
+sub
+   add
+      add
+         cos
+            cos
+               add
+                  add
+                     xx
+                     xx
+                  sub
+                     1
+                     2
+               add
+                  add
+                     5
+                     5
+                  add
+                     xx
+                     3.141592653589793
+            mul
+               cos
+                  2
+                  xx
+               add
+                  5
+                  xx
+         add
+            add
+               cos
+                  cos
+                     sub
+                        sub
+                           xx
+                           10
+                        add
+                           1
+                           2
+                     add
+                        mul
+                           3.141592653589793
+                           xx
+                        cos
+                           10
+                           5
+                  10
+               mul
+                  xx
+                  cos
+                     xx
+                     2
+            mul
+               xx
+               cos
+                  xx
+                  1
+      mul
+         xx
+         cos
+            xx
+            1
+   mul
+      5
+      sub
+         mul
+            2
+            3.141592653589793
+         10
+________________________
+gen: 102 , best_of_run_f: 0.1 , best_of_run_f: 0.09810692606471794
+new_tree
+sub
+   add
+      add
+         cos
+            cos
+               3.141592653589793
+               add
+                  add
+                     5
+                     5
+                  add
+                     xx
+                     3.141592653589793
+            mul
+               cos
+                  2
+                  xx
+               add
+                  5
+                  xx
+         add
+            add
+               cos
+                  cos
+                     sub
+                        sub
+                           xx
+                           10
+                        add
+                           1
+                           2
+                     add
+                        mul
+                           3.141592653589793
+                           xx
+                        cos
+                           10
+                           5
+                  10
+               mul
+                  xx
+                  cos
+                     xx
+                     2
+            mul
+               xx
+               cos
+                  xx
+                  1
+      mul
+         xx
+         cos
+            xx
+            1
+   mul
+      5
+      sub
+         mul
+            2
+            3.141592653589793
+         10
+________________________
+gen: 103 , best_of_run_f: 0.1 , best_of_run_f: 0.09987067309759931
+new_tree
+sub
+   add
+      add
+         cos
+            cos
+               3.141592653589793
+               add
+                  add
+                     5
+                     5
+                  add
+                     xx
+                     3.141592653589793
+            mul
+               cos
+                  2
+                  xx
+               add
+                  5
+                  xx
+         add
+            add
+               cos
+                  cos
+                     add
+                        sub
+                           xx
+                           3.141592653589793
+                        mul
+                           3.141592653589793
+                           3.141592653589793
+                     add
+                        mul
+                           3.141592653589793
+                           xx
+                        cos
+                           10
+                           5
+                  10
+               mul
+                  xx
+                  cos
+                     xx
+                     2
+            mul
+               xx
+               cos
+                  xx
+                  1
+      mul
+         xx
+         cos
+            xx
+            1
+   mul
+      5
+      sub
+         mul
+            2
+            3.141592653589793
+         10
+________________________
+gen: 104 , best_of_run_f: 0.101 , best_of_run_f: 0.10038620471919464
+new_tree
+sub
+   add
+      add
+         sub
+            cos
+               mul
+                  3.141592653589793
+                  2
+               sub
+                  3.141592653589793
+                  5
+            cos
+               mul
+                  5
+                  1
+               cos
+                  1
+                  xx
+         add
+            add
+               cos
+                  cos
+                     add
+                        sub
+                           xx
+                           3.141592653589793
+                        mul
+                           3.141592653589793
+                           3.141592653589793
+                     add
+                        mul
+                           3.141592653589793
+                           xx
+                        cos
+                           xx
+                           5
+                  10
+               mul
+                  xx
+                  cos
+                     xx
+                     2
+            mul
+               xx
+               cos
+                  xx
+                  1
+      mul
+         xx
+         cos
+            xx
+            1
+   mul
+      5
+      sub
+         mul
+            2
+            3.141592653589793
+         10
+________________________
+gen: 105 , best_of_run_f: 0.102 , best_of_run_f: 0.10073096609546625
+new_tree
+sub
+   add
+      add
+         sub
+            cos
+               mul
+                  3.141592653589793
+                  2
+               sub
+                  3.141592653589793
+                  5
+            cos
+               mul
+                  5
+                  1
+               cos
+                  1
+                  xx
+         add
+            add
+               cos
+                  cos
+                     add
+                        sub
+                           xx
+                           3.141592653589793
+                        mul
+                           3.141592653589793
+                           3.141592653589793
+                     add
+                        mul
+                           3.141592653589793
+                           xx
+                        cos
+                           xx
+                           3.141592653589793
+                  10
+               mul
+                  xx
+                  cos
+                     xx
+                     2
+            mul
+               xx
+               cos
+                  xx
+                  1
+      mul
+         xx
+         cos
+            xx
+            1
+   mul
+      5
+      sub
+         mul
+            2
+            3.141592653589793
+         10
+________________________
+gen: 106 , best_of_run_f: 0.102 , best_of_run_f: 0.10229976167177196
+________________________
+gen: 107 , best_of_run_f: 0.104 , best_of_run_f: 0.10229976167177196
+new_tree
+sub
+   add
+      add
+         sub
+            cos
+               mul
+                  add
+                     add
+                        2
+                        xx
+                     sub
+                        5
+                        3.141592653589793
+                  add
+                     sub
+                        1
+                        xx
+                     cos
+                        xx
+                        5
+               sub
+                  3.141592653589793
+                  5
+            cos
+               mul
+                  5
+                  1
+               cos
+                  1
+                  xx
+         add
+            add
+               cos
+                  cos
+                     add
+                        sub
+                           xx
+                           3.141592653589793
+                        mul
+                           5
+                           5
+                     add
+                        mul
+                           3.141592653589793
+                           xx
+                        cos
+                           xx
+                           3.141592653589793
+                  10
+               mul
+                  xx
+                  cos
+                     xx
+                     2
+            mul
+               xx
+               cos
+                  xx
+                  1
+      mul
+         xx
+         cos
+            xx
+            1
+   mul
+      5
+      sub
+         mul
+            2
+            3.141592653589793
+         10
+________________________
+gen: 108 , best_of_run_f: 0.102 , best_of_run_f: 0.10362508528462118
+________________________
+gen: 109 , best_of_run_f: 0.102 , best_of_run_f: 0.10362508528462118
+________________________
+gen: 110 , best_of_run_f: 0.102 , best_of_run_f: 0.10362508528462118
+________________________
+gen: 111 , best_of_run_f: 0.103 , best_of_run_f: 0.10362508528462118
+________________________
+gen: 112 , best_of_run_f: 0.103 , best_of_run_f: 0.10362508528462118
+________________________
+gen: 113 , best_of_run_f: 0.103 , best_of_run_f: 0.10362508528462118
+________________________
+gen: 114 , best_of_run_f: 0.103 , best_of_run_f: 0.10362508528462118
+________________________
+gen: 115 , best_of_run_f: 0.103 , best_of_run_f: 0.10362508528462118
+________________________
+gen: 116 , best_of_run_f: 0.103 , best_of_run_f: 0.10362508528462118
+________________________
+gen: 117 , best_of_run_f: 0.103 , best_of_run_f: 0.10362508528462118
+________________________
+gen: 118 , best_of_run_f: 0.102 , best_of_run_f: 0.10362508528462118
+________________________
+gen: 119 , best_of_run_f: 0.102 , best_of_run_f: 0.10362508528462118
+________________________
+gen: 120 , best_of_run_f: 0.102 , best_of_run_f: 0.10362508528462118
+________________________
+gen: 121 , best_of_run_f: 0.104 , best_of_run_f: 0.10362508528462118
+new_tree
+sub
+   add
+      add
+         cos
+            add
+               sub
+                  add
+                     1
+                     1
+                  cos
+                     1
+                     1
+               sub
+                  sub
+                     2
+                     1
+                  sub
+                     10
+                     3.141592653589793
+            xx
+         add
+            add
+               cos
+                  cos
+                     sub
+                        10
+                        1
+                     add
+                        mul
+                           3.141592653589793
+                           xx
+                        cos
+                           10
+                           5
+                  10
+               mul
+                  xx
+                  cos
+                     xx
+                     2
+            mul
+               xx
+               cos
+                  xx
+                  1
+      mul
+         xx
+         cos
+            xx
+            mul
+               sub
+                  10
+                  2
+               sub
+                  mul
+                     2
+                     3.141592653589793
+                  10
+   mul
+      5
+      sub
+         mul
+            2
+            3.141592653589793
+         10
+________________________
+gen: 122 , best_of_run_f: 0.103 , best_of_run_f: 0.10362856332137756
+________________________
+gen: 123 , best_of_run_f: 0.103 , best_of_run_f: 0.10362856332137756
+________________________
+gen: 124 , best_of_run_f: 0.104 , best_of_run_f: 0.10362856332137756
+new_tree
+sub
+   add
+      add
+         sub
+            cos
+               sub
+                  sub
+                     cos
+                        2
+                        3.141592653589793
+                     add
+                        xx
+                        xx
+                  mul
+                     add
+                        1
+                        3.141592653589793
+                     add
+                        xx
+                        10
+               sub
+                  cos
+                     10
+                     3.141592653589793
+                  cos
+                     3.141592653589793
+                     10
+            add
+               cos
+                  mul
+                     5
+                     3.141592653589793
+                  2
+               cos
+                  cos
+                     xx
+                     3.141592653589793
+                  cos
+                     1
+                     2
+         add
+            add
+               cos
+                  cos
+                     sub
+                        sub
+                           xx
+                           10
+                        1
+                     add
+                        5
+                        cos
+                           10
+                           5
+                  10
+               mul
+                  xx
+                  cos
+                     xx
+                     2
+            mul
+               xx
+               cos
+                  xx
+                  1
+      mul
+         xx
+         cos
+            xx
+            mul
+               sub
+                  10
+                  2
+               sub
+                  mul
+                     2
+                     3.141592653589793
+                  10
+   mul
+      5
+      sub
+         mul
+            2
+            3.141592653589793
+         10
+________________________
+gen: 125 , best_of_run_f: 0.103 , best_of_run_f: 0.10440082175424088
+________________________
+gen: 126 , best_of_run_f: 0.102 , best_of_run_f: 0.10440082175424088
+________________________
+gen: 127 , best_of_run_f: 0.102 , best_of_run_f: 0.10440082175424088
+________________________
+gen: 128 , best_of_run_f: 0.103 , best_of_run_f: 0.10440082175424088
+________________________
+gen: 129 , best_of_run_f: 0.103 , best_of_run_f: 0.10440082175424088
+________________________
+gen: 130 , best_of_run_f: 0.102 , best_of_run_f: 0.10440082175424088
+________________________
+gen: 131 , best_of_run_f: 0.102 , best_of_run_f: 0.10440082175424088
+________________________
+gen: 132 , best_of_run_f: 0.102 , best_of_run_f: 0.10440082175424088
+________________________
+gen: 133 , best_of_run_f: 0.103 , best_of_run_f: 0.10440082175424088
+________________________
+gen: 134 , best_of_run_f: 0.103 , best_of_run_f: 0.10440082175424088
+________________________
+gen: 135 , best_of_run_f: 0.102 , best_of_run_f: 0.10440082175424088
+________________________
+gen: 136 , best_of_run_f: 0.102 , best_of_run_f: 0.10440082175424088
+________________________
+gen: 137 , best_of_run_f: 0.105 , best_of_run_f: 0.10440082175424088
+new_tree
+sub
+   add
+      add
+         cos
+            cos
+               add
+                  mul
+                     add
+                        5
+                        2
+                     cos
+                        xx
+                        3.141592653589793
+                  mul
+                     mul
+                        1
+                        10
+                     add
+                        5
+                        5
+               add
+                  add
+                     3.141592653589793
+                     xx
+                  mul
+                     10
+                     10
+            sub
+               sub
+                  10
+                  xx
+               cos
+                  2
+                  5
+         add
+            add
+               cos
+                  cos
+                     sub
+                        xx
+                        cos
+                           5
+                           xx
+                     add
+                        3.141592653589793
+                        xx
+                  10
+               mul
+                  xx
+                  cos
+                     xx
+                     2
+            mul
+               xx
+               cos
+                  xx
+                  1
+      mul
+         xx
+         cos
+            xx
+            mul
+               sub
+                  10
+                  2
+               sub
+                  mul
+                     2
+                     3.141592653589793
+                  10
+   mul
+      5
+      sub
+         mul
+            2
+            3.141592653589793
+         10
+________________________
+gen: 138 , best_of_run_f: 0.105 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 139 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 140 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 141 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 142 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 143 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 144 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 145 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 146 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 147 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 148 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 149 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 150 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 151 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 152 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 153 , best_of_run_f: 0.104 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 154 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 155 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 156 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 157 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 158 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 159 , best_of_run_f: 0.102 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 160 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 161 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 162 , best_of_run_f: 0.104 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 163 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 164 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 165 , best_of_run_f: 0.102 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 166 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 167 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 168 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 169 , best_of_run_f: 0.102 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 170 , best_of_run_f: 0.104 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 171 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 172 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 173 , best_of_run_f: 0.102 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 174 , best_of_run_f: 0.104 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 175 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 176 , best_of_run_f: 0.104 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 177 , best_of_run_f: 0.104 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 178 , best_of_run_f: 0.104 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 179 , best_of_run_f: 0.104 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 180 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 181 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 182 , best_of_run_f: 0.104 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 183 , best_of_run_f: 0.103 , best_of_run_f: 0.10462317230106274
+________________________
+gen: 184 , best_of_run_f: 0.105 , best_of_run_f: 0.10462317230106274
+new_tree
+sub
+   sub
+      mul
+         cos
+            1
+            1
+         add
+            10
+            5
+      sub
+         mul
+            2
+            2
+         mul
+            xx
+            xx
+   mul
+      5
+      sub
+         mul
+            2
+            3.141592653589793
+         10
+________________________
+gen: 185 , best_of_run_f: 0.103 , best_of_run_f: 0.10478266196181059
+________________________
+gen: 186 , best_of_run_f: 0.104 , best_of_run_f: 0.10478266196181059
+________________________
+gen: 187 , best_of_run_f: 0.104 , best_of_run_f: 0.10478266196181059
+________________________
+gen: 188 , best_of_run_f: 0.103 , best_of_run_f: 0.10478266196181059
+________________________
+gen: 189 , best_of_run_f: 0.104 , best_of_run_f: 0.10478266196181059
+________________________
+gen: 190 , best_of_run_f: 0.104 , best_of_run_f: 0.10478266196181059
+________________________
+gen: 191 , best_of_run_f: 0.104 , best_of_run_f: 0.10478266196181059
+________________________
+gen: 192 , best_of_run_f: 0.104 , best_of_run_f: 0.10478266196181059
+________________________
+gen: 193 , best_of_run_f: 0.104 , best_of_run_f: 0.10478266196181059
+________________________
+gen: 194 , best_of_run_f: 0.104 , best_of_run_f: 0.10478266196181059
+________________________
+gen: 195 , best_of_run_f: 0.104 , best_of_run_f: 0.10478266196181059
+________________________
+gen: 196 , best_of_run_f: 0.104 , best_of_run_f: 0.10478266196181059
+________________________
+gen: 197 , best_of_run_f: 0.104 , best_of_run_f: 0.10478266196181059
+________________________
+gen: 198 , best_of_run_f: 0.104 , best_of_run_f: 0.10478266196181059
+________________________
+gen: 199 , best_of_run_f: 0.104 , best_of_run_f: 0.10478266196181059
+________________________
+gen: 200 , best_of_run_f: 0.103 , best_of_run_f: 0.10478266196181059
+________________________
+gen: 201 , best_of_run_f: 0.104 , best_of_run_f: 0.10478266196181059
+________________________
+gen: 202 , best_of_run_f: 0.104 , best_of_run_f: 0.10478266196181059
+________________________
+gen: 203 , best_of_run_f: 0.104 , best_of_run_f: 0.10478266196181059
+________________________
+gen: 204 , best_of_run_f: 0.104 , best_of_run_f: 0.10478266196181059
+________________________
+gen: 205 , best_of_run_f: 0.104 , best_of_run_f: 0.10478266196181059
+________________________
+gen: 206 , best_of_run_f: 0.105 , best_of_run_f: 0.10478266196181059
+new_tree
+sub
+   add
+      add
+         sub
+            cos
+               mul
+                  mul
+                     mul
+                        mul
+                           mul
+                              add
+                                 sub
+                                    1
+                                    1
+                                 cos
+                                    10
+                                    5
+                              mul
+                                 sub
+                                    10
+                                    10
+                                 mul
+                                    10
+                                    xx
+                           3.141592653589793
+                        add
+                           xx
+                           5
+                     add
+                        add
+                           2
+                           1
+                        cos
+                           xx
+                           xx
+                  1
+               add
+                  5
+                  5
+            cos
+               cos
+                  10
+                  xx
+               add
+                  3.141592653589793
+                  5
+         add
+            add
+               cos
+                  cos
+                     xx
+                     add
+                        add
+                           add
+                              cos
+                                 add
+                                    mul
+                                       add
+                                          cos
+                                             xx
+                                             1
+                                          xx
+                                       xx
+                                    add
+                                       add
+                                          cos
+                                             cos
+                                                mul
+                                                   5
+                                                   sub
+                                                      mul
+                                                         2
+                                                         3.141592653589793
+                                                      10
+                                                add
+                                                   add
+                                                      add
+                                                         cos
+                                                            add
+                                                               mul
+                                                                  add
+                                                                     cos
+                                                                        xx
+                                                                        xx
+                                                                     add
+                                                                        mul
+                                                                           3.141592653589793
+                                                                           2
+                                                                        2
+                                                                  mul
+                                                                     sub
+                                                                        xx
+                                                                        sub
+                                                                           mul
+                                                                              2
+                                                                              3.141592653589793
+                                                                           10
+                                                                     cos
+                                                                        1
+                                                                        2
+                                                               add
+                                                                  add
+                                                                     cos
+                                                                        cos
+                                                                           1
+                                                                           1
+                                                                        add
+                                                                           sub
+                                                                              3.141592653589793
+                                                                              xx
+                                                                           cos
+                                                                              5
+                                                                              xx
+                                                                     add
+                                                                        add
+                                                                           cos
+                                                                              cos
+                                                                                 sub
+                                                                                    xx
+                                                                                    sub
+                                                                                       add
+                                                                                          1
+                                                                                          xx
+                                                                                       sub
+                                                                                          xx
+                                                                                          10
+                                                                                 10
+                                                                              10
+                                                                           mul
+                                                                              xx
+                                                                              sub
+                                                                                 sub
+                                                                                    mul
+                                                                                       2
+                                                                                       3.141592653589793
+                                                                                    10
+                                                                                 1
+                                                                        mul
+                                                                           xx
+                                                                           cos
+                                                                              xx
+                                                                              1
+                                                                  mul
+                                                                     xx
+                                                                     cos
+                                                                        xx
+                                                                        mul
+                                                                           sub
+                                                                              10
+                                                                              2
+                                                                           sub
+                                                                              mul
+                                                                                 2
+                                                                                 add
+                                                                                    cos
+                                                                                       add
+                                                                                          mul
+                                                                                             mul
+                                                                                                5
+                                                                                                cos
+                                                                                                   10
+                                                                                                   2
+                                                                                             mul
+                                                                                                sub
+                                                                                                   xx
+                                                                                                   2
+                                                                                                cos
+                                                                                                   10
+                                                                                                   2
+                                                                                          sub
+                                                                                             mul
+                                                                                                2
+                                                                                                10
+                                                                                             add
+                                                                                                10
+                                                                                                3.141592653589793
+                                                                                       add
+                                                                                          sub
+                                                                                             3.141592653589793
+                                                                                             1
+                                                                                          cos
+                                                                                             5
+                                                                                             xx
+                                                                                    add
+                                                                                       add
+                                                                                          cos
+                                                                                             cos
+                                                                                                sub
+                                                                                                   1
+                                                                                                   sub
+                                                                                                      add
+                                                                                                         1
+                                                                                                         xx
+                                                                                                      sub
+                                                                                                         xx
+                                                                                                         10
+                                                                                                10
+                                                                                             10
+                                                                                          mul
+                                                                                             xx
+                                                                                             sub
+                                                                                                cos
+                                                                                                   xx
+                                                                                                   1
+                                                                                                1
+                                                                                       mul
+                                                                                          xx
+                                                                                          cos
+                                                                                             xx
+                                                                                             1
+                                                                              10
+                                                            add
+                                                               sub
+                                                                  3.141592653589793
+                                                                  1
+                                                               cos
+                                                                  5
+                                                                  xx
+                                                         xx
+                                                      2
+                                                   xx
+                                             10
+                                          mul
+                                             xx
+                                             cos
+                                                xx
+                                                2
+                                       mul
+                                          xx
+                                          cos
+                                             xx
+                                             1
+                                 add
+                                    sub
+                                       3.141592653589793
+                                       1
+                                    cos
+                                       5
+                                       xx
+                              add
+                                 add
+                                    cos
+                                       cos
+                                          sub
+                                             cos
+                                                sub
+                                                   1
+                                                   1
+                                                10
+                                             sub
+                                                10
+                                                sub
+                                                   xx
+                                                   10
+                                          10
+                                       10
+                                    mul
+                                       xx
+                                       sub
+                                          cos
+                                             xx
+                                             1
+                                          1
+                                 mul
+                                    xx
+                                    cos
+                                       xx
+                                       1
+                           add
+                              cos
+                                 cos
+                                    mul
+                                       5
+                                       sub
+                                          mul
+                                             2
+                                             3.141592653589793
+                                          10
+                                    add
+                                       add
+                                          10
+                                          mul
+                                             xx
+                                             cos
+                                                xx
+                                                add
+                                                   cos
+                                                      xx
+                                                      10
+                                                   mul
+                                                      xx
+                                                      sub
+                                                         cos
+                                                            sub
+                                                               mul
+                                                                  2
+                                                                  10
+                                                               add
+                                                                  10
+                                                                  3.141592653589793
+                                                            1
+                                                         cos
+                                                            xx
+                                                            1
+                                       xx
+                                 10
+                              mul
+                                 xx
+                                 cos
+                                    xx
+                                    2
+                        xx
+                  10
+               mul
+                  xx
+                  cos
+                     xx
+                     2
+            mul
+               xx
+               cos
+                  xx
+                  1
+      mul
+         xx
+         cos
+            xx
+            mul
+               sub
+                  10
+                  2
+               sub
+                  mul
+                     2
+                     3.141592653589793
+                  10
+   mul
+      5
+      sub
+         mul
+            2
+            3.141592653589793
+         10
+________________________
+gen: 207 , best_of_run_f: 0.104 , best_of_run_f: 0.10493201739651399
+________________________
+gen: 208 , best_of_run_f: 0.107 , best_of_run_f: 0.10493201739651399
+new_tree
+sub
+   add
+      add
+         sub
+            mul
+               add
+                  sub
+                     cos
+                        mul
+                           2
+                           1
+                        sub
+                           xx
+                           2
+                     add
+                        cos
+                           10
+                           10
+                        sub
+                           1
+                           2
+                  cos
+                     1
+                     5
+               cos
+                  sub
+                     1
+                     xx
+                  add
+                     xx
+                     2
+            cos
+               cos
+                  10
+                  xx
+               add
+                  3.141592653589793
+                  5
+         add
+            add
+               cos
+                  cos
+                     xx
+                     add
+                        add
+                           add
+                              cos
+                                 add
+                                    mul
+                                       add
+                                          cos
+                                             xx
+                                             1
+                                          xx
+                                       xx
+                                    add
+                                       add
+                                          cos
+                                             cos
+                                                mul
+                                                   5
+                                                   sub
+                                                      mul
+                                                         2
+                                                         3.141592653589793
+                                                      10
+                                                add
+                                                   add
+                                                      add
+                                                         cos
+                                                            add
+                                                               mul
+                                                                  add
+                                                                     cos
+                                                                        xx
+                                                                        xx
+                                                                     add
+                                                                        mul
+                                                                           3.141592653589793
+                                                                           2
+                                                                        2
+                                                                  mul
+                                                                     sub
+                                                                        xx
+                                                                        sub
+                                                                           mul
+                                                                              2
+                                                                              3.141592653589793
+                                                                           10
+                                                                     cos
+                                                                        1
+                                                                        2
+                                                               add
+                                                                  add
+                                                                     cos
+                                                                        cos
+                                                                           1
+                                                                           1
+                                                                        add
+                                                                           sub
+                                                                              3.141592653589793
+                                                                              xx
+                                                                           cos
+                                                                              5
+                                                                              xx
+                                                                     add
+                                                                        add
+                                                                           cos
+                                                                              cos
+                                                                                 sub
+                                                                                    xx
+                                                                                    sub
+                                                                                       add
+                                                                                          1
+                                                                                          xx
+                                                                                       sub
+                                                                                          xx
+                                                                                          10
+                                                                                 10
+                                                                              10
+                                                                           mul
+                                                                              xx
+                                                                              sub
+                                                                                 sub
+                                                                                    mul
+                                                                                       2
+                                                                                       3.141592653589793
+                                                                                    10
+                                                                                 1
+                                                                        mul
+                                                                           xx
+                                                                           cos
+                                                                              xx
+                                                                              1
+                                                                  mul
+                                                                     xx
+                                                                     cos
+                                                                        xx
+                                                                        mul
+                                                                           sub
+                                                                              10
+                                                                              2
+                                                                           sub
+                                                                              mul
+                                                                                 2
+                                                                                 add
+                                                                                    cos
+                                                                                       add
+                                                                                          mul
+                                                                                             mul
+                                                                                                5
+                                                                                                cos
+                                                                                                   10
+                                                                                                   2
+                                                                                             mul
+                                                                                                sub
+                                                                                                   xx
+                                                                                                   2
+                                                                                                cos
+                                                                                                   10
+                                                                                                   2
+                                                                                          sub
+                                                                                             mul
+                                                                                                2
+                                                                                                10
+                                                                                             add
+                                                                                                10
+                                                                                                3.141592653589793
+                                                                                       add
+                                                                                          sub
+                                                                                             3.141592653589793
+                                                                                             1
+                                                                                          cos
+                                                                                             5
+                                                                                             add
+                                                                                                cos
+                                                                                                   add
+                                                                                                      mul
+                                                                                                         mul
+                                                                                                            5
+                                                                                                            cos
+                                                                                                               10
+                                                                                                               2
+                                                                                                         mul
+                                                                                                            sub
+                                                                                                               xx
+                                                                                                               2
+                                                                                                            cos
+                                                                                                               10
+                                                                                                               2
+                                                                                                      sub
+                                                                                                         mul
+                                                                                                            2
+                                                                                                            10
+                                                                                                         add
+                                                                                                            10
+                                                                                                            3.141592653589793
+                                                                                                   add
+                                                                                                      sub
+                                                                                                         3.141592653589793
+                                                                                                         1
+                                                                                                      cos
+                                                                                                         5
+                                                                                                         xx
+                                                                                                add
+                                                                                                   add
+                                                                                                      cos
+                                                                                                         cos
+                                                                                                            sub
+                                                                                                               1
+                                                                                                               sub
+                                                                                                                  add
+                                                                                                                     1
+                                                                                                                     xx
+                                                                                                                  sub
+                                                                                                                     xx
+                                                                                                                     10
+                                                                                                            10
+                                                                                                         10
+                                                                                                      mul
+                                                                                                         xx
+                                                                                                         sub
+                                                                                                            cos
+                                                                                                               xx
+                                                                                                               1
+                                                                                                            1
+                                                                                                   mul
+                                                                                                      xx
+                                                                                                      cos
+                                                                                                         xx
+                                                                                                         10
+                                                                                    add
+                                                                                       add
+                                                                                          cos
+                                                                                             cos
+                                                                                                sub
+                                                                                                   1
+                                                                                                   sub
+                                                                                                      add
+                                                                                                         1
+                                                                                                         xx
+                                                                                                      sub
+                                                                                                         xx
+                                                                                                         10
+                                                                                                10
+                                                                                             10
+                                                                                          mul
+                                                                                             xx
+                                                                                             sub
+                                                                                                10
+                                                                                                1
+                                                                                       mul
+                                                                                          xx
+                                                                                          cos
+                                                                                             xx
+                                                                                             1
+                                                                              10
+                                                            add
+                                                               sub
+                                                                  3.141592653589793
+                                                                  1
+                                                               cos
+                                                                  5
+                                                                  xx
+                                                         xx
+                                                      2
+                                                   xx
+                                             10
+                                          mul
+                                             xx
+                                             cos
+                                                xx
+                                                2
+                                       mul
+                                          xx
+                                          cos
+                                             xx
+                                             1
+                                 add
+                                    sub
+                                       3.141592653589793
+                                       1
+                                    cos
+                                       5
+                                       xx
+                              add
+                                 add
+                                    cos
+                                       cos
+                                          sub
+                                             cos
+                                                sub
+                                                   1
+                                                   1
+                                                10
+                                             sub
+                                                10
+                                                sub
+                                                   xx
+                                                   10
+                                          10
+                                       10
+                                    mul
+                                       xx
+                                       sub
+                                          cos
+                                             xx
+                                             1
+                                          1
+                                 mul
+                                    xx
+                                    cos
+                                       xx
+                                       1
+                           add
+                              cos
+                                 cos
+                                    mul
+                                       5
+                                       sub
+                                          mul
+                                             2
+                                             3.141592653589793
+                                          10
+                                    add
+                                       add
+                                          10
+                                          mul
+                                             xx
+                                             cos
+                                                xx
+                                                add
+                                                   cos
+                                                      xx
+                                                      10
+                                                   mul
+                                                      xx
+                                                      sub
+                                                         cos
+                                                            sub
+                                                               mul
+                                                                  2
+                                                                  10
+                                                               add
+                                                                  10
+                                                                  3.141592653589793
+                                                            1
+                                                         cos
+                                                            xx
+                                                            1
+                                       xx
+                                 10
+                              mul
+                                 xx
+                                 cos
+                                    xx
+                                    2
+                        xx
+                  10
+               mul
+                  xx
+                  cos
+                     xx
+                     2
+            mul
+               xx
+               cos
+                  xx
+                  1
+      mul
+         xx
+         cos
+            xx
+            mul
+               sub
+                  10
+                  2
+               sub
+                  mul
+                     2
+                     3.141592653589793
+                  10
+   mul
+      5
+      sub
+         mul
+            2
+            3.141592653589793
+         10
+________________________
+gen: 209 , best_of_run_f: 0.105 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 210 , best_of_run_f: 0.104 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 211 , best_of_run_f: 0.103 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 212 , best_of_run_f: 0.104 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 213 , best_of_run_f: 0.104 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 214 , best_of_run_f: 0.104 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 215 , best_of_run_f: 0.104 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 216 , best_of_run_f: 0.102 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 217 , best_of_run_f: 0.104 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 218 , best_of_run_f: 0.103 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 219 , best_of_run_f: 0.103 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 220 , best_of_run_f: 0.104 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 221 , best_of_run_f: 0.103 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 222 , best_of_run_f: 0.103 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 223 , best_of_run_f: 0.103 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 224 , best_of_run_f: 0.102 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 225 , best_of_run_f: 0.102 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 226 , best_of_run_f: 0.105 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 227 , best_of_run_f: 0.105 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 228 , best_of_run_f: 0.105 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 229 , best_of_run_f: 0.105 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 230 , best_of_run_f: 0.105 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 231 , best_of_run_f: 0.103 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 232 , best_of_run_f: 0.103 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 233 , best_of_run_f: 0.103 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 234 , best_of_run_f: 0.104 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 235 , best_of_run_f: 0.103 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 236 , best_of_run_f: 0.103 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 237 , best_of_run_f: 0.103 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 238 , best_of_run_f: 0.103 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 239 , best_of_run_f: 0.103 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 240 , best_of_run_f: 0.104 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 241 , best_of_run_f: 0.104 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 242 , best_of_run_f: 0.105 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 243 , best_of_run_f: 0.105 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 244 , best_of_run_f: 0.103 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 245 , best_of_run_f: 0.103 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 246 , best_of_run_f: 0.103 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 247 , best_of_run_f: 0.103 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 248 , best_of_run_f: 0.103 , best_of_run_f: 0.10747870211000249
+________________________
+gen: 249 , best_of_run_f: 0.103 , best_of_run_f: 0.10747870211000249
+
+
+_________________________________________________
+END OF RUN
+best_of_run attained at gen 208 and has f=0.107
+sub
+   add
+      add
+         sub
+            mul
+               add
+                  sub
+                     cos
+                        mul
+                           2
+                           1
+                        sub
+                           xx
+                           2
+                     add
+                        cos
+                           10
+                           10
+                        sub
+                           1
+                           2
+                  cos
+                     1
+                     5
+               cos
+                  sub
+                     1
+                     xx
+                  add
+                     xx
+                     2
+            cos
+               cos
+                  10
+                  xx
+               add
+                  3.141592653589793
+                  5
+         add
+            add
+               cos
+                  cos
+                     xx
+                     add
+                        add
+                           add
+                              cos
+                                 add
+                                    mul
+                                       add
+                                          cos
+                                             xx
+                                             1
+                                          xx
+                                       xx
+                                    add
+                                       add
+                                          cos
+                                             cos
+                                                mul
+                                                   5
+                                                   sub
+                                                      mul
+                                                         2
+                                                         3.141592653589793
+                                                      10
+                                                add
+                                                   add
+                                                      add
+                                                         cos
+                                                            add
+                                                               mul
+                                                                  add
+                                                                     cos
+                                                                        xx
+                                                                        xx
+                                                                     add
+                                                                        mul
+                                                                           3.141592653589793
+                                                                           2
+                                                                        2
+                                                                  mul
+                                                                     sub
+                                                                        xx
+                                                                        sub
+                                                                           mul
+                                                                              2
+                                                                              3.141592653589793
+                                                                           10
+                                                                     cos
+                                                                        1
+                                                                        2
+                                                               add
+                                                                  add
+                                                                     cos
+                                                                        cos
+                                                                           1
+                                                                           1
+                                                                        add
+                                                                           sub
+                                                                              3.141592653589793
+                                                                              xx
+                                                                           cos
+                                                                              5
+                                                                              xx
+                                                                     add
+                                                                        add
+                                                                           cos
+                                                                              cos
+                                                                                 sub
+                                                                                    xx
+                                                                                    sub
+                                                                                       add
+                                                                                          1
+                                                                                          xx
+                                                                                       sub
+                                                                                          xx
+                                                                                          10
+                                                                                 10
+                                                                              10
+                                                                           mul
+                                                                              xx
+                                                                              sub
+                                                                                 sub
+                                                                                    mul
+                                                                                       2
+                                                                                       3.141592653589793
+                                                                                    10
+                                                                                 1
+                                                                        mul
+                                                                           xx
+                                                                           cos
+                                                                              xx
+                                                                              1
+                                                                  mul
+                                                                     xx
+                                                                     cos
+                                                                        xx
+                                                                        mul
+                                                                           sub
+                                                                              10
+                                                                              2
+                                                                           sub
+                                                                              mul
+                                                                                 2
+                                                                                 add
+                                                                                    cos
+                                                                                       add
+                                                                                          mul
+                                                                                             mul
+                                                                                                5
+                                                                                                cos
+                                                                                                   10
+                                                                                                   2
+                                                                                             mul
+                                                                                                sub
+                                                                                                   xx
+                                                                                                   2
+                                                                                                cos
+                                                                                                   10
+                                                                                                   2
+                                                                                          sub
+                                                                                             mul
+                                                                                                2
+                                                                                                10
+                                                                                             add
+                                                                                                10
+                                                                                                3.141592653589793
+                                                                                       add
+                                                                                          sub
+                                                                                             3.141592653589793
+                                                                                             1
+                                                                                          cos
+                                                                                             5
+                                                                                             add
+                                                                                                cos
+                                                                                                   add
+                                                                                                      mul
+                                                                                                         mul
+                                                                                                            5
+                                                                                                            cos
+                                                                                                               10
+                                                                                                               2
+                                                                                                         mul
+                                                                                                            sub
+                                                                                                               xx
+                                                                                                               2
+                                                                                                            cos
+                                                                                                               10
+                                                                                                               2
+                                                                                                      sub
+                                                                                                         mul
+                                                                                                            2
+                                                                                                            10
+                                                                                                         add
+                                                                                                            10
+                                                                                                            3.141592653589793
+                                                                                                   add
+                                                                                                      sub
+                                                                                                         3.141592653589793
+                                                                                                         1
+                                                                                                      cos
+                                                                                                         5
+                                                                                                         xx
+                                                                                                add
+                                                                                                   add
+                                                                                                      cos
+                                                                                                         cos
+                                                                                                            sub
+                                                                                                               1
+                                                                                                               sub
+                                                                                                                  add
+                                                                                                                     1
+                                                                                                                     xx
+                                                                                                                  sub
+                                                                                                                     xx
+                                                                                                                     10
+                                                                                                            10
+                                                                                                         10
+                                                                                                      mul
+                                                                                                         xx
+                                                                                                         sub
+                                                                                                            cos
+                                                                                                               xx
+                                                                                                               1
+                                                                                                            1
+                                                                                                   mul
+                                                                                                      xx
+                                                                                                      cos
+                                                                                                         xx
+                                                                                                         10
+                                                                                    add
+                                                                                       add
+                                                                                          cos
+                                                                                             cos
+                                                                                                sub
+                                                                                                   1
+                                                                                                   sub
+                                                                                                      add
+                                                                                                         1
+                                                                                                         xx
+                                                                                                      sub
+                                                                                                         xx
+                                                                                                         10
+                                                                                                10
+                                                                                             10
+                                                                                          mul
+                                                                                             xx
+                                                                                             sub
+                                                                                                10
+                                                                                                1
+                                                                                       mul
+                                                                                          xx
+                                                                                          cos
+                                                                                             xx
+                                                                                             1
+                                                                              10
+                                                            add
+                                                               sub
+                                                                  3.141592653589793
+                                                                  1
+                                                               cos
+                                                                  5
+                                                                  xx
+                                                         xx
+                                                      2
+                                                   xx
+                                             10
+                                          mul
+                                             xx
+                                             cos
+                                                xx
+                                                2
+                                       mul
+                                          xx
+                                          cos
+                                             xx
+                                             1
+                                 add
+                                    sub
+                                       3.141592653589793
+                                       1
+                                    cos
+                                       5
+                                       xx
+                              add
+                                 add
+                                    cos
+                                       cos
+                                          sub
+                                             cos
+                                                sub
+                                                   1
+                                                   1
+                                                10
+                                             sub
+                                                10
+                                                sub
+                                                   xx
+                                                   10
+                                          10
+                                       10
+                                    mul
+                                       xx
+                                       sub
+                                          cos
+                                             xx
+                                             1
+                                          1
+                                 mul
+                                    xx
+                                    cos
+                                       xx
+                                       1
+                           add
+                              cos
+                                 cos
+                                    mul
+                                       5
+                                       sub
+                                          mul
+                                             2
+                                             3.141592653589793
+                                          10
+                                    add
+                                       add
+                                          10
+                                          mul
+                                             xx
+                                             cos
+                                                xx
+                                                add
+                                                   cos
+                                                      xx
+                                                      10
+                                                   mul
+                                                      xx
+                                                      sub
+                                                         cos
+                                                            sub
+                                                               mul
+                                                                  2
+                                                                  10
+                                                               add
+                                                                  10
+                                                                  3.141592653589793
+                                                            1
+                                                         cos
+                                                            xx
+                                                            1
+                                       xx
+                                 10
+                              mul
+                                 xx
+                                 cos
+                                    xx
+                                    2
+                        xx
+                  10
+               mul
+                  xx
+                  cos
+                     xx
+                     2
+            mul
+               xx
+               cos
+                  xx
+                  1
+      mul
+         xx
+         cos
+            xx
+            mul
+               sub
+                  10
+                  2
+               sub
+                  mul
+                     2
+                     3.141592653589793
+                  10
+   mul
+      5
+      sub
+         mul
+            2
+            3.141592653589793
+         10
